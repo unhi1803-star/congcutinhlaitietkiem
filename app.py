@@ -10,7 +10,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("💰 APP TÍNH LÃI GỬI TIẾT KIỆM")
+st.title("💰 APP TÍNH LÃI GỬI TIẾT KIỆM_NGUYỄN THỊ UYÊN NHI")
 st.write("Nhập thông tin tiền gửi để tính tiền lãi và số tiền nhận được.")
 
 st.divider()
